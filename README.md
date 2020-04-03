@@ -1,5 +1,4 @@
 # Dynamic Watermarker_EB
-Email Blaster and Watermarker Python script
+Watermarker Python script using PyPDF2
 
 
-Watermark script uses PyPDF2
